@@ -1,1 +1,1 @@
-print 'hello world!'
+print 'COVID19 says hello world!'
